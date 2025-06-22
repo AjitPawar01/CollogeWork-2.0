@@ -86,13 +86,3 @@ Compared to the Raspberry Pi 2 it has:
   <li>Micro SD card slot</li>
   <li>Video Core IV 3D graphics core</li>
  </ul>
- 
-<h3 style="font-size: 3px; display: inline-block;">
-  <img src="icons/model.png" alt="icon" style="vertical-align: middle; height: 45px;">
-  Deep Learning Model Results
-</h3>
-
-<img src="icons/accuracy.png" alt="Architecture of Raspberry automation system" width="50%" height="50%"><br><br>
-<img src="icons/graph.png" alt="Architecture of Raspberry automation system" width="50%" height="50%">
- 
- 
